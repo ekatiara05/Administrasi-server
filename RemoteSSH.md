@@ -19,11 +19,14 @@
 - Kembali ke Session klik Save 
 - Klik open 
 - Masukan username sesuai instance
-
-
-![alt text]
-
-![alt text]
-![alt text]
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-15.png)
 
 4. Sudo apt-get Update (Update OS) lanjut "sudo apt-get upgrade
+![alt text](image-17.png)
+
+5. Pembuktian Remote SSH secara visual
+
+6. sudo shutdown now
+![alt text](image-18.png)
