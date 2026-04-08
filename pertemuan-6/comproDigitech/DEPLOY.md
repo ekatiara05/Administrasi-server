@@ -25,7 +25,7 @@ Contoh: `13.215.xxx.xxx`
 ```bash
 ssh -i "nama-key.pem" ubuntu@<IP-PUBLIK-EC2>
 ```
-
+![alt text](image.png)
 ---
 
 ## Langkah 2 — Update Sistem & Install Dependensi
@@ -34,7 +34,7 @@ ssh -i "nama-key.pem" ubuntu@<IP-PUBLIK-EC2>
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y curl git unzip apache2
 ```
-
+![alt text](image-1.png)
 ---
 
 ## Langkah 3 — Install Node.js v20
@@ -45,7 +45,7 @@ sudo apt install -y nodejs
 node -v   # pastikan v20.x
 npm -v
 ```
-
+![alt text](image-2.png)
 ---
 
 ## Langkah 4 — Install PM2 (Process Manager)
@@ -301,3 +301,4 @@ sudo systemctl status mariadb
 
 > **Catatan untuk Pengumpulan Tugas:**  
 > Screenshot bukti deployment minimal meliputi: (1) halaman utama via IP, (2) halaman `/admin` setelah login, dan (3) output `pm2 status` di terminal EC2.
+
