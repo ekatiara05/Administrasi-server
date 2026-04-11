@@ -15,8 +15,11 @@ UJIAN TENGAH SEMESTER (Deploy Curriculum Vitae (CV) atau Portofolio Dalam bentuk
 5. Install Nginx
 ![alt text](image-4.png)
 
-6. Filezila
+6. Status Nginx
+![alt text](image-7.png)
+
+7. Filezila
 ![alt text](image-5.png)
 
-7. Web cv
+8. Web cv
 ![alt text](image-6.png)
