@@ -3,23 +3,26 @@ UJIAN TENGAH SEMESTER (Deploy Curriculum Vitae (CV) atau Portofolio Dalam bentuk
 1. Buat instance EC2 (singapore)
 ![alt text](image.png)
 
-2. CloudWatch Alarms
+2. Mengatur Security group
+![alt text](image-8.png)
+
+3. CloudWatch Alarms
 ![alt text](image-1.png)
 
-3. Elastic IP
+4. Elastic IP
 ![alt text](image-2.png)
 
-4. putty
+5. putty
 ![alt text](image-3.png)
 
-5. Install Nginx
+6. Install Nginx
 ![alt text](image-4.png)
 
-6. Status Nginx
+7. Status Nginx
 ![alt text](image-7.png)
 
-7. Filezila
+8. Filezila
 ![alt text](image-5.png)
 
-8. Web cv
+9. Web cv
 ![alt text](image-6.png)
