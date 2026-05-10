@@ -27,7 +27,7 @@
 
 4. Create token access
 
-    - Klik Profile -> Settings -> personal access tokens
+    - Klik Profile -> Settings -> personal access tokensz
     - klik generate new token
     - isi deskripsi
     - expire date
