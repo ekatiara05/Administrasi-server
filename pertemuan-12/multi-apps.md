@@ -9,10 +9,10 @@
 6. Testing Next.js + db menggunakan user bukan root pada local env
 
     - copy project digitech pada ptm6 kecuali folder .next, node_modules, sql kedalam folder
-!   [alt text](image.png)
+!   ![alt text](image.png)
 
     - buat usercompro_2388010047 set jadi localhost pw= 12345
-!   [alt text](image-1.png)
+!   ![alt text](image-1.png)
 
     - sesuaikan isi file .env di folder compro_2388010047 username sama pw databasenya
 
@@ -21,4 +21,4 @@
     - npm i
 
     - npm run dev
-!   [alt text](image-2.png)
+!   ![alt text](image-2.png)
