@@ -47,7 +47,7 @@ WEB DINAMIS
 3. Deploy Web-Dinamis
 ![alt text](image-13.png)
 
- - tampilan dasboard kopi nusantara
+ - tampilan dasboard resto
 ![alt text](image-19.png)
 
 - tampilan login
